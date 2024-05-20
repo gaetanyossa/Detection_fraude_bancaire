@@ -1,5 +1,3 @@
-```markdown
-
    ## Application de prédiction de Défaut de paiement
    
    Ce projet consiste en une application de prédiction de défaut de paiement des clients, utilisant un modèle de machine learning pour prédire si un client sera en défaut de paiement. L'application est développée avec Streamlit.
