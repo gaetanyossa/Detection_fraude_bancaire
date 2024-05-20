@@ -9,7 +9,7 @@ L'application utilise un modèle de machine learning entraîné sur des données
 
 ### Captures d'écran
 
-![image appli ](img_appli.png)
+![image appli](./img_appli.png)
 
 ## Installation
 
